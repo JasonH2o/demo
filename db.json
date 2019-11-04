@@ -1,14 +1,38 @@
 {
-  "posts": [
-    { "id": 1, "title": "Jason Test" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"Status": "success",
+	"PSPVId": "A12345",
+	"LastChangeDtm": "10/09/2019 13:00",
+	"Attributes": [{
+			"Name": "Field1", 
+			"Description": "OCPLMField 1 Display",
+			"LegacyName" : "SAPField1",
+			"Group" : "Attr Group 1",
+			"RevControlled": "true",
+			"Format": "text"
+		},
+		{
+			"Name": "OCPLMField1", 
+			"Description": "OCPLM Field 1 Display",
+			"LegacyName" : "SAPField2",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		},
+		{
+			"Name": "OCPLMField2", 
+			"Description": "OCPLM Field 2 Display",
+			"LegacyName" : "SAPField3",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		},
+		{
+			"Name": "OCPLMField3", 
+			"Description": "OCPLM Field 3 Display",
+			"LegacyName" : "",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		}
+	]
 }
