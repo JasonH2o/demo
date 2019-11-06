@@ -37,6 +37,44 @@
 			"Format": "number"
 		}
 	]
+},
+	  {
+	"Status": "success",
+	"PSPVId": "A67890",
+	"LastChangeDtm": "11/06/2019 13:00",
+	"Attributes": [{
+			"Name": "OCPLMField1", 
+			"Description": "OCPLM Field 1 Display",
+			"LegacyName" : "SAPField1",
+			"Group" : "Attr Group 1",
+			"RevControlled": "true",
+			"Format": "text"
+		},
+		{
+			"Name": "OCPLMField1", 
+			"Description": "OCPLM Field 1 Display",
+			"LegacyName" : "SAPField2",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		},
+		{
+			"Name": "OCPLMField2", 
+			"Description": "OCPLM Field 2 Display",
+			"LegacyName" : "SAPField3",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		},
+		{
+			"Name": "OCPLMField3", 
+			"Description": "OCPLM Field 3 Display",
+			"LegacyName" : "",
+			"Group": "Attr Group 2",
+			"RevControlled": "false",
+			"Format": "number"
+		}
+	]
 }
   ],
   "comments": [
