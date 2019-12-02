@@ -78,8 +78,8 @@
 }
   ],
   "comments": [
-	  {},
-	  {}
+	  {"group": 1, "name": "Jason Liu"},
+	  {"group": 2, "name": "Simon Cheng"}
   ],
   "profile": {}
 }
