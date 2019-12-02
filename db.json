@@ -81,8 +81,5 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": 
-    { "Group": "1", "Name": "Simon Cheng", "Attend": "fasle"}
-    
-  
+  "profile": {}
 }
