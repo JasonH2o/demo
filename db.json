@@ -78,8 +78,9 @@
 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "Group": "1", "Name": "Simon Cheng", "Attend": "fasle"},
+    { "Group": "2", "Name": "Lyvan Li", "Attend": "fasle"},
+    { "Group": "2", "Name": "Ivy Fang", "Attend": "fasle"},
   ],
   "profile": {}
 }
