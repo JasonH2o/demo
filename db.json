@@ -80,14 +80,14 @@
   "comments": [
 	  {"group": 1, "name": "Jason Liu”, “attend”: “false”},
 	  {"group": 2, "name": "Simon Cheng”, “attend”: “false”},
-	  {"group": 3, "name": “Lyvan Li”, “attend”: “false”},
-	  {"group": 3, "name": “Ivy Fang”, “attend”: “false”},
-	  {"group": 4, "name": “Ck Fang”, “attend”: “false”},
-	  {"group": 4, "name": “Lynett Fang”, “attend”: “false”},
-	  {"group": 5, "name": “Janice Chen”, “attend”: “false”},
-	  {"group": 6, "name": “Joan Leung”, “attend”: “false”},
-	  {"group": 7, "name": “Leilei Zhen”, “attend”: “false”},
-	  {"group": 7, "name": “Michael Cao”, “attend”: “false”}
+	  {"group": 3, "name": "Lyvan Li”, “attend”: “false”},
+	  {"group": 3, "name": "Ivy Fang”, “attend”: “false”},
+	  {"group": 4, "name": "Ck Fang”, “attend”: “false”},
+	  {"group": 4, "name": "Lynett Fang”, “attend”: “false”},
+	  {"group": 5, "name": "Janice Chen”, “attend”: “false”},
+	  {"group": 6, "name": "Joan Leung”, “attend”: “false”},
+	  {"group": 7, "name": "Leilei Zhen”, “attend”: “false”},
+	  {"group": 7, "name": "Michael Cao”, “attend”: “false”}
   ],
   "profile": {}
 }
